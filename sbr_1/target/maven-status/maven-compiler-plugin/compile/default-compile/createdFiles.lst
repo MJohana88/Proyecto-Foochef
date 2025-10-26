@@ -1,0 +1,6 @@
+conexion\ConexionFoodChef.class
+com\mycompany\sbr_1\resources\JakartaEE10Resource.class
+servlets\Svinicio_sesion.class
+servlets\CerrarSesion.class
+formulario\Formulario.class
+com\mycompany\sbr_1\JakartaRestConfiguration.class
